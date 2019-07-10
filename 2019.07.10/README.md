@@ -8,7 +8,13 @@
 ### 🧐 Retrospective.(✅ or ❌or 🖇 ) 
 
 - ✅ 
+   - `comment 를 작성`
 - ✅ 
+   - `comment 를 작성`
 - ✅
+   - `comment 를 작성`
 - ❌
+   - `comment 를 작성`
 - 🖇 
+   - `comment 를 작성`
+
