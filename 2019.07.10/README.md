@@ -1,14 +1,8 @@
 ### 📌 Todo.
 
-- [ ] Mercury
-- [ ] Venus
-- [ ] Earth (Orbit/Moon)
-- [ ] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] `할일을 작성하세요`
+- [ ] `할일을 작성하세요`
+- [ ] `할일을 작성하세요`
 
 
 ### 🧐 Retrospective.(✅ or ❌or 🖇 ) 
