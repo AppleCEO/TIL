@@ -1,9 +1,9 @@
 ### 📌 Todo.
 
 - [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
+- [ ] Venus
+- [ ] Earth (Orbit/Moon)
+- [ ] Mars
 - [ ] Jupiter
 - [ ] Saturn
 - [ ] Uranus
