@@ -7,6 +7,8 @@
 
 - ✅  **`Let us: go 2019 Summer 후기 작성`**
    - `발표하신 내용들 실습도 해보고 싶었지만 우선 내용과 소감만 작성해봤다.`
+   https://kiljh-me.github.io/2019/08/05/letusgo2019Summer/
+
 - ✅  **`RxSwift Opservable 영상 다시 보기`**
    - `RxSwift 에 대해 조금 더 알고 보니까 이해가 더 많이됬다.`
 
